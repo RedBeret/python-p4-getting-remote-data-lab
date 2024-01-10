@@ -2,8 +2,6 @@ import json
 
 import requests
 
-from lib.GetRequester import GetRequester
-
 
 class GetRequester:
     def __init__(self, url):
